@@ -1,0 +1,8 @@
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\bin\Debug\Ejercisio5.exe.config
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\bin\Debug\Ejercisio5.exe
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\bin\Debug\Ejercisio5.pdb
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\obj\Debug\Ejercisio5.csproj.AssemblyReference.cache
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\obj\Debug\Ejercisio5.csproj.SuggestedBindingRedirects.cache
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\obj\Debug\Ejercisio5.csproj.CoreCompileInputs.cache
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\obj\Debug\Ejercisio5.exe
+E:\Progrmas C#\5TO\Ejercisios C#\Clase6\Ejercisio5\obj\Debug\Ejercisio5.pdb
